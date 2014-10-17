@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[geb:home|Door43 (geb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-geb|d43-geb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-geb/archive/master.zip|d43-geb.zip]]
+
+**Recent Changes**
+{{changes>ns = geb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/geb|Ethnologue data]]
+
